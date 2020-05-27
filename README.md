@@ -1,1 +1,1 @@
-# Repósito para o curso de como publicar um pacote NPM
+# Repositório para o curso de como publicar um pacote NPM
