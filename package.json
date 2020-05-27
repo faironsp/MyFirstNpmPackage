@@ -1,0 +1,25 @@
+{
+  "name": "myfirstnpmpackagenode",
+  "version": "1.0.0",
+  "description": "Efetua a verificação se um numero é par e se é um numero primo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faironsp/MyFirstNpmPackage.git"
+  },
+  "keywords": [
+    "número",
+    "par",
+    "número",
+    "primo"
+  ],
+  "author": "Fabio de Oliveira Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faironsp/MyFirstNpmPackage/issues"
+  },
+  "homepage": "https://github.com/faironsp/MyFirstNpmPackage#readme"
+}
