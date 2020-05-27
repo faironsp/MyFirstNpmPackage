@@ -1,3 +1,3 @@
 # MyFirstNpmPackage
 
-<h1>Teste</h1>
+# Repósito para o curso de como publicar um pacote NPM
